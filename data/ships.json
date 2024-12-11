@@ -1,0 +1,16 @@
+   [
+   {
+        "id": 1,
+        "name": "Millennium Falcon",
+        "type": "Freighter",
+        "pilot": "Chewbacca"
+    },
+
+    {
+        "id": 2,
+        "name": "X-Wing",
+        "type": "Starfighter",
+        "pilot": "Luke Skywalker"
+    }
+   ]
+
