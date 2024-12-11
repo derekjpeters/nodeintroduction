@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "Luke Skywalker",
+        "affiliation": "Jedi",
+        "planet": "Tatoonie"
+    },
+
+    {
+        "id": 2,
+        "name": "Darth Vader",
+        "affiliation": "Sith",
+        "planet": "Mustafar"
+    }
+]
